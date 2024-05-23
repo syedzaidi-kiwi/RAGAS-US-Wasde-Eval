@@ -1,0 +1,5 @@
+ragas
+datasets
+python-dotenv
+unstructured
+unstructured[pdf]
